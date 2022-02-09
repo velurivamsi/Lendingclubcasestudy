@@ -30,6 +30,6 @@
 
 
 ## Contact
-Created by [@velurivamsi] - feel free to contact me!
+Created by velurivamsi - feel free to contact me!
 
 
